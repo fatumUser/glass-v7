@@ -7,7 +7,7 @@
   font-weight: normal;
   font-style: normal;
 }
-body {
+body, html {
   margin: 0;
   background: #0f1219;
   overflow-x: hidden;
