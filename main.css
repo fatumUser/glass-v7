@@ -298,7 +298,7 @@ header .burger {
     margin: 0;
   }
   .main-section .video {
-    width: 100%;
+    width: 768px;
   }
   .main-section .content {
     grid-column: 1/2;
